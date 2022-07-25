@@ -1,0 +1,2 @@
+curl "https://dir.caring.com/api/v2/resources.json" \
+  -H "Caring-Partner: 2250be1e5b28"
